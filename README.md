@@ -1,4 +1,4 @@
-Number Guessing Game (Java) :
+1)Number Guessing Game (Java) :
 
 This is a simple Number Guessing Game developed using Java, where the user tries to guess a randomly generated number within a limited number of attempts.
 
@@ -21,3 +21,35 @@ Technologies Used :
 ->VS Code
 
 ->Git & GitHub
+
+
+
+2)ATM Interface – Java :
+
+Project Description :
+
+This is a console-based ATM Interface application developed using Java.The project demonstrates basic Object-Oriented Programming concepts and menu-driven user
+
+interaction.
+
+Features :
+
+-> Withdraw money
+
+-> Deposit money
+
+-> Transfer money
+
+-> View transaction history
+
+-> Quit and display final balance
+
+Technologies Used :
+
+-> Java
+
+-> VS Code
+
+-> Git & GitHub
+
+
